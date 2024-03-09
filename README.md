@@ -21,12 +21,5 @@ This repository contains an implementation of a Restricted Boltzmann Machine (RB
 - Tensorflow
 
 
-##Example 
-# Instantiate RBM model
-rbm = RBM(n_visible=784, n_hidden=256)
 
-# Train the RBM on a dataset
-rbm.train(training_data, epochs=10, batchsize=32)
 
-# Predict RBMs output on given input data
-generated_output = rbm.predict(input_data)

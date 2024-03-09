@@ -1,6 +1,6 @@
 ## Restricted Boltzmann Machine (RBM) Implementation
 
-![RBM](rbm_image.png)
+![RBM](img/RBM.png)
 
 ## Overview
 

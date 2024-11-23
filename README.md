@@ -20,6 +20,8 @@ This repository contains an implementation of a Restricted Boltzmann Machine (RB
 - Matplotlib (for visualization, optional)
 - Tensorflow
 
+##References
 
+https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow
 
 
